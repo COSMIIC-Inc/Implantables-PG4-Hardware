@@ -1,4 +1,4 @@
-# Implantables-PulseGenerator-Hardware Read Me
+# Implantables-PG4-Hardware Read Me
 
 ## Contents
 This repository is home to the 3D CAD and PCB design files of the PG4 - Pulse Generator Module in the COSMIIC System.

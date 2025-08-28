@@ -1,0 +1,365 @@
+*************************************************************
+FileName = PG4D.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PG4D.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : L2 Flex GND
+      File : PG4D.G1
+
+    Adding Layer      : L2 Flex GND
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+    D53
+    D54
+    D55
+    D56
+    D57
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : L3 Flex Signals
+      File : PG4D.G2
+
+    Adding Layer      : L3 Flex Signals
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D51
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D60
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PG4D.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D18
+    D46
+    D47
+    D50
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PG4D.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D29
+    D30
+    D31
+    D32
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D53
+    D54
+    D55
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PG4D.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D53
+    D54
+    D55
+    D56
+    D59
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PG4D.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D59
+    D68
+    D69
+    D74
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PG4D.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D18
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Coverlayer Top
+      File : PG4D.GM3
+
+    Adding Layer      : Coverlayer Top
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D104
+    D105
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Coverlayer Bot
+      File : PG4D.GM4
+
+    Adding Layer      : Coverlayer Bot
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D53
+    D54
+    D55
+    D104
+    D105
+    D106
+*************************************************************
+

@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: M:\CFIL_ALTIUM\FJT_PROJECTS\218500_FES_PG4D_FLEX\PG4D Altium project\PG4D.PcbDoc
+RuleKind=Clearance|RuleName=FEEDHOLE_20MIL|Scope=Board|Minimum=7.09
+RuleKind=Clearance|RuleName=Pad to Pad|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Clearance_keepout|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Polygon|Scope=Board|Minimum=7.87

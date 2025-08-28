@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: M:\CFIL_ALTIUM\FJT_PROJECTS\218500_FES_PG4D_FLEX\PG4D Altium project\PG4D.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pg4d.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_L2 Flex GND_Blind_Vias|DrillFile=|LayerPairs=gtl,g1
+LayersSetName=L2 Flex GND_L3 Flex Signals_Burried_Vias|DrillFile=|LayerPairs=g1,g2

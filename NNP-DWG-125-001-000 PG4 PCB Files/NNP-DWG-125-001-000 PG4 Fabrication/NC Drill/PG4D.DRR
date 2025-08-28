@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PG4D.PcbDoc   5/5/2014  9:43:11 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PG4D.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T2        7.87mil (0.1999mm)       Round          74               11.88 Inch (301.70 mm)
+T3        20mil (0.508mm)          Round          18               3.98 Inch (101.01 mm)
+T4        36mil (0.9144mm)         Round          26               3.42 Inch (86.96 mm)
+T5        157.99mil (4.01295mm)    Round          4         NPTH   14.29 Inch (363.06 mm)
+---------------------------------------------------------------------------
+Totals                                            122              33.57 Inch (852.72 mm)
+Layer Pair : Top Layer to L2 Flex GND
+ASCII RoundHoles File : PG4D.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        5.91mil (0.15011mm)      Round          169              14.51 Inch (368.47 mm)
+---------------------------------------------------------------------------
+Totals                                            169              14.51 Inch (368.47 mm)
+Layer Pair : L2 Flex GND to L3 Flex Signals
+ASCII RoundHoles File : PG4D.TX2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T2        7.87mil (0.1999mm)       Round          64               8.41 Inch (213.58 mm)
+---------------------------------------------------------------------------
+Totals                                            64               8.41 Inch (213.58 mm)
+---------------------------------------------------------------------------
+Totals                                            355              56.49 Inch (1434.78 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
